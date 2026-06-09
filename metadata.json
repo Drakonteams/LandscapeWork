@@ -1,0 +1,6 @@
+{
+  "name": "Premium Landscaping Calgary",
+  "description": "An interactive premium landscaping catalog, visual yard designer, seasonal quote estimator, and community booking system for Calgary, Alberta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
